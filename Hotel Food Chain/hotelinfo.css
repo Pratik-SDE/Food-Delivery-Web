@@ -1,0 +1,267 @@
+nav{
+    box-shadow: 1px 6px 10px rgba(128, 128, 128, 0.336);
+    border-radius: 20px;
+    
+  }
+  #foodie-logo{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    left: 120px;
+    border-radius: 50%;
+  }
+  .nav-icon{
+    width:25px;
+    height: 25px;
+    cursor: pointer;
+  }
+ 
+  .nav-buttons{
+    list-style: none;
+    display: inline-block;
+    position: relative;
+    left: 230px;
+    top:15px;
+    margin-left: 40px;
+  }
+  #cartpara{
+    position: relative;
+    right:40px;
+    background-color: orange;
+    border-radius: 20px;
+    font-weight: 800;
+    width: 25px;
+    text-align: center;
+    color:white;
+    font-size: large;
+  }
+  .button-icon{
+    border: none; 
+    background-color: white;
+    font-weight: bold;
+  }
+  .button-icon:hover{
+    background-color: orange;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+  }
+
+
+  .hotel-name{
+    position: relative;
+    left: 350px;
+  }
+
+  .hotel-time{
+    border: grey 1px solid;
+    width: 600px;
+    position: relative;
+    left: 350px;
+    border-radius: 20px;
+    box-shadow: 1px 10px 20px rgba(110, 110, 110, 0.795);
+    height: 200px;
+  }
+
+  #price{
+    font-weight: bold;
+    font-size: large;
+    position: relative;
+    left: 15px;
+    top: 10px;
+  }
+  #location{
+    font-size: medium;
+    font-weight: bold;
+    color: rgb(255, 115, 0);
+    position: relative;
+    left: 15px;
+   
+  }
+  #outlet{
+    font-size: small;
+    font-weight: bold;
+    position: relative;
+    left: 15px;
+    top: 10px;
+  }
+  #time{
+    font-weight: bold;
+    font-size: small;
+    position: relative;
+    left: 15px;
+  }
+  #line-one{
+    width: 600px;
+    border: 0.2px rgb(172, 172, 172) solid;
+    position: relative;
+    
+  }
+  #dis{
+    font-size: medium;
+    position: relative;
+    left: 15px;
+    color: rgb(107, 107, 107);
+    top: 10px;
+    font-weight: 500;
+  }
+
+  #menu{
+    text-align: center;
+    position: relative;
+    top: 20px;
+    font-weight: 500;
+    color: rgb(128, 128, 128);
+  }
+
+  #search{
+    height: 40px;
+    width:600px;
+    border-radius: 10px;
+    position: relative;
+    left: 350px;
+    border: none;
+    top: 20px;
+    background-color: rgb(218, 218, 218);
+    text-align: center;
+    font-weight: 500;
+    color: rgb(114, 114, 114);
+  }
+
+
+  .resto-fil{
+    width: 100px;
+    border-color: grey;
+    background-color: white;
+    border-radius: 50px;
+    height: 40px;
+    position: relative;
+    left: 350px;
+    top: 40px;
+  }
+
+  .resto-fil:hover{
+    background-color: orange;
+    color: black;
+    font-weight: bold;
+    border: none;
+  }
+
+  #line-two{
+    width: 600px;
+    border: 0.2px rgb(172, 172, 172) solid;
+    position: relative;
+    left: 350px;
+    top:60px;
+  }
+
+  .full-hotel{
+    position: relative;
+    top: 40px;
+  }
+
+
+  .all-menu{
+    position: relative;
+    left: 350px;
+    top: 80px;
+    width: 970px;
+  }
+
+  .hotel-info{
+    position: relative;
+    top: 10px;
+  }
+
+  .Thali{
+    width: 600px;
+    display: inline-block;
+  }
+
+  #thali-menu{
+    width: 370px;
+    position: relative;
+    top: 10px;
+  }
+  #thali-image{
+    width: 200px;
+    height: 186px;
+    position: relative;
+    bottom:100px;
+    left: 50px;
+  }
+  .add-button{
+    position: relative;
+    right: 120px;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    color: green;
+    font-weight: 500;
+    border: 1px solid green;
+    background-color: white;
+  }
+  .add-button:hover{
+    background-color: green;
+    color: white;
+    font-weight: 500;
+  }
+
+  .menu-line{
+    width: 600px;
+    border: 1px solid grey;
+    position: relative;
+    bottom: 30px;
+  }
+
+  #footer{
+    position: relative;
+    top: 120px;
+    background-color: rgb(39, 39, 39);
+    color: white;
+    height:340px;
+  }
+  .col-foot{
+    display: inline-block;
+    width: 250px;
+    position: relative;
+    left: 200px;
+    top: 30px;
+  }
+  #footer-logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+  }
+
+  .comp-button:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 100px;
+    text-align: center;
+  }
+  .contact-button:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+  }
+  .legal-button:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 150px;
+    text-align: center;
+  }
+  .loc-button:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 120px;
+    text-align: center;
+  }
